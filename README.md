@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @lingi99
+- 🌱 I’m currently learning SQL :)
